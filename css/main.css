@@ -1,0 +1,21 @@
+.t {
+	color : blue;
+}
+
+.cell {
+	color : grey;
+	border : solid;
+	margin-left : auto;
+	margin-right : auto;
+	width : 100px;
+	height : 100px;	
+	
+}
+
+.c4 {
+	float : left;
+}
+
+[contenteditable="true"]:focus {
+	color: blue;
+}
